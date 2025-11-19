@@ -49,8 +49,8 @@ I specialize in **React, Next.js, Tailwind CSS, and WordPress**, building both c
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=magedElshafey&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=magedElshafey&theme=radical" height="160" />
 </p>
 
 ---
