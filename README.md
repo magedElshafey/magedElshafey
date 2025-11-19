@@ -33,18 +33,18 @@ I specialize in **React, Next.js, Tailwind CSS, and WordPress**, building both c
 
 ### 🚀 Featured Projects
 
-#### 🏡 [Real Estate Dashboard](https://github.com/yourusername/real-estate-dashboard)
-> A responsive real estate dashboard with Google Maps integration, filtering, and analytics.  
-> **Tech:** React, Next.js, Tailwind CSS, React Query, Google Maps API  
+#### 🌐 [Abazeer E-commerce ](https://abazeer.sa)
+> A fully Responsive E-commerce built from scratch with modern frontend tools.  
+> **Tech:** React, TypeScript , Tailwind CSS, React Query
 
-#### 🧱 [Custom UI Library](https://github.com/yourusername/ui-library)
-> A reusable component library with Storybook documentation and TypeScript support.  
-> **Tech:** React, Storybook, Tailwind CSS, TypeScript  
+#### 🏡 [Real Estate Platform ](https://ejark.sa/)
+> A responsive Real estate rental platform with interactive maps, booking features, and secure payments.
+> **Tech:** React, TypeScript , Tailwind CSS, React Query, Google Maps API  
 
-#### 🌐 [WordPress Portfolio Theme](https://github.com/yourusername/wordpress-theme)
-> A fully custom WordPress theme built from scratch with modern frontend tools and ACF integration.  
-> **Tech:** PHP, WordPress, Tailwind CSS, JavaScript  
-
+#### 🧱 [Admin Dashboard](https://dashboard.qutell.net/login)
+> Internal admin panel to manage users, content, and settings for a SaaS platform.  
+> **Tech:** React, TypeScript , Tailwind CSS, React Query
+  
 ---
 
 ### 📊 GitHub Stats
